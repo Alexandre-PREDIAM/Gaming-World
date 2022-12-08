@@ -664,6 +664,7 @@ body {
     grid-template-areas: 
     "logo list list"
     ;
+    width: 81.5%;
   }
   
   .container-flex {
@@ -734,6 +735,6 @@ body {
   }
 
   .rm-img {
-    transform: scale(0.3);
+    transform: scale(0.4);
   }
 }
